@@ -1,0 +1,13 @@
+tinkercad links for 3D printing
+
+Auto dog feeder - dispenser on platform, O-ring, and auger
+https://www.tinkercad.com/things/iVeQkvAzLms-dispenser-on-platform-o-ring-auger?sharecode=Be-261fw_nsaydditzsmTBLQ5UzgnN9nMYwFuCQqeik
+
+Auto dog feeder - base: holds the arduino, cables and has cutout for touchscreen
+https://www.tinkercad.com/things/65DHy3CnUq4-auto-dog-feeder-base?sharecode=VkrRU3mrAyAFggVonMMJGGh3pehJcrK1yjW8BV5VCm0 
+
+Auto dog feeder - bowl to attach to base
+https://www.tinkercad.com/things/8NL6CMnbkfG-auto-dog-feeder-bowl?sharecode=FFLXyp35_G9rocxJX408tkXQQDYX2ajaruWMxS933Gs
+
+Auto dog feeder - PENNY letters to embed into base
+https://www.tinkercad.com/things/6JQefrkzkvi-penny-3d-letters?sharecode=5WpUEnaFt4G3eHPWvjwfGMpS-ANccQrdauk9KbFkV3U

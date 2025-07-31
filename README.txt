@@ -26,6 +26,9 @@ TI BASIC (.8xp)
   [TI-83/84 Plus Series calculators]
     ◆ src -> hardware -> calculator-texas-instruments 
 
+VHDL:
+  [Altera Cyclone - ModelSim]
+    ◆ src -> hardward -> altera
 
 MATLAB:
   ◆ src -> software -> matlab
